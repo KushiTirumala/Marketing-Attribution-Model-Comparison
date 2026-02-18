@@ -1,0 +1,8 @@
+customer_id,touchpoint_order,channel,conversion_value
+1,1,Google Ads,100
+1,2,Email,100
+2,1,Facebook,200
+2,2,Google Ads,200
+3,1,Email,150
+3,2,Direct,150
+...
