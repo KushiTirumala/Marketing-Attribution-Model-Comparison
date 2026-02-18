@@ -12,7 +12,7 @@ Linear Attribution
 
 The goal is to understand which marketing channels truly drive revenue.
 
-Business Problem
+Business Problem:
 
 Companies invest in multiple marketing channels (Google Ads, Email, Social Media, Direct Traffic).
 
@@ -26,7 +26,7 @@ How should revenue be fairly distributed?
 
 This project answers these questions using data-driven attribution models.
 
-Dataset
+Dataset:
 
 The dataset includes:
 
@@ -40,7 +40,7 @@ conversion_value – Revenue generated
 
 Each customer may interact with multiple channels before conversion.
 
-Tools Used
+Tools Used :
 
 Python
 
@@ -63,7 +63,7 @@ Linear Attribution
 
 Distributes revenue equally across all touchpoints.
 
-Output
+Output:
 
 Revenue credited per channel under each model
 
@@ -71,7 +71,7 @@ Visual comparison of attribution impact
 
 Identification of over- or under-valued channels
 
-Key Insights
+Key Insights:
 
 Last-touch may overvalue bottom-funnel channels.
 
@@ -79,7 +79,7 @@ First-touch highlights awareness drivers.
 
 Linear provides balanced credit distribution.
 
-Business Impact
+Business Impact:
 
 Helps marketing teams:
 
